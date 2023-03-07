@@ -35,7 +35,7 @@
     margin: 0 auto;
 }
 .bianco{background-color: white;}
-.AzzurroTestata{background-color: #3161e0;}
+/*.AzzurroTestata{background-color: #3161e0;}*/
 .grigio { background-color: lightgray; }
 /*.azzurro { background-color: dodgerblue; }
 .rosa { background-color: pink; }*/
@@ -109,7 +109,10 @@ h1{
 }
 /*.jumbo{
     background-image: url(/img/jumbo.png);
-*/
+    width: 100%;
+}*/
+    
+
 .SectionButton{
     margin-left: 150px;
 }
