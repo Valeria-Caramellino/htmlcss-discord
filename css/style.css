@@ -33,20 +33,15 @@
     max-width: 1200px;
     margin: 0 auto;
 }
-
-.arancio { background-color: goldenrod; }
+.bianco{background-color: white;}
+.AzzurroTestata{background-color: #3161e0;}
 .grigio { background-color: lightgray; }
 .azzurro { background-color: dodgerblue; }
 .rosa { background-color: pink; }
-.blue { background-color: darkblue; }
-.viola { background-color: violet; }
+/*.viola { background-color: violet; }*/
 .verde { background-color: green; }
 .nero { background-color: black; }
 .acqua { background-color: aquamarine; }
-
-header {
-    background-color: lightblue;
-}
 
 .nav {
     height: 80px;
@@ -93,8 +88,36 @@ header {
 }
 .size{
     font-size: 15px;
-    font-weight: bolder;
+    font-weight:bold;
 }
 .whiteFont{
     color: white;
+}
+.spazioSpan{
+    padding: 20px;
+}
+.BlackFont{
+    color: black;
+}
+button{
+    border-radius: 20px;
+    border: none;
+}
+h1{
+    font-size: 40px;
+    margin-bottom: 40px;
+    margin-top: 40px;
+}
+
+.BottomP{
+    margin-bottom: 40px;
+}
+/*.jumbo{
+    background-image: url(/img/jumbo.png);
+}*/
+.SectionButton{
+    margin-left: 150px;
+}
+.Mleft{
+    margin-left: 30px;
 }
