@@ -11,6 +11,7 @@
 .w50 { width: 50%; }
 .w60 { width: 60%; }
 .w70 { width: 70%; }
+.w90 { width: 90%; }
 .w100 { width: 100%; }
 
 .spazio {
@@ -36,13 +37,13 @@
 .bianco{background-color: white;}
 .AzzurroTestata{background-color: #3161e0;}
 .grigio { background-color: lightgray; }
-.azzurro { background-color: dodgerblue; }
-.rosa { background-color: pink; }
+/*.azzurro { background-color: dodgerblue; }
+.rosa { background-color: pink; }*/
 /*.viola { background-color: violet; }*/
-.verde { background-color: green; }
+/*.verde { background-color: green; }*/
 .nero { background-color: black; }
 .acqua { background-color: aquamarine; }
-
+.AzzurroBottone{ background-color: #8ea1e1;}
 .nav {
     height: 80px;
     align-items: center;
@@ -151,4 +152,12 @@ h2{
     width: 40%;
     margin-left: 30px;
     margin-top: 40px;
+}
+.Sezione4{
+    width: 30%;
+    margin: 0 auto;
+}
+.ButtonSezione4{
+    margin-top: 20px;
+    margin-left: 80px;
 }
