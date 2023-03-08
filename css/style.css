@@ -13,7 +13,7 @@
 .w70 { width: 70%; }
 .w90 { width: 90%; }
 .w100 { width: 100%; }
-
+body {font-family: Arial, Helvetica, sans-serif;}
 .spazio {
     padding: 10px;
 }
@@ -176,10 +176,10 @@ h2{
 h3{
     margin-top: 50px;
     padding-bottom: 25px;
-    color: #7188d9;
+    color: black;
     font-size: 25px;
 }
-h5{
+h4{
     margin-top: 50px;
     padding-bottom: 20px;
     color: #7188d9;
