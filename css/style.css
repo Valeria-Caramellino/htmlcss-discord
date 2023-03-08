@@ -14,10 +14,7 @@
 .w90 { width: 90%; }
 .w100 { width: 100%; }
 body {font-family: Arial, Helvetica, sans-serif;}
-.spazio {
-    padding: 10px;
-}
-
+.spazio { padding: 10px;}
 .text-left { text-align: left; }
 .text-center { text-align: center; }
 .text-right { text-align: right; }
@@ -28,6 +25,10 @@ body {font-family: Arial, Helvetica, sans-serif;}
 
 .flex {
     display: flex;
+}
+header{
+    background-image: url(../img/jumbo.png);
+    background-size: cover;
 }
 
 .boxed {
