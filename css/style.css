@@ -50,6 +50,10 @@
     justify-content: space-between;
     font-size: 20px;
 }
+span.Hover:hover{
+    text-decoration: underline;
+    color: white;
+}
 
 .hero {
     height: 500px;
@@ -97,6 +101,9 @@
 button{
     border-radius: 20px;
     border: none;
+}
+button:hover{
+    box-shadow: 0 0 4px 4px black;
 }
 h1{
     font-size: 40px;
