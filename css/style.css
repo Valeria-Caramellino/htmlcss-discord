@@ -115,11 +115,6 @@ h1{
 .BottomP{
     margin-bottom: 40px;
 }
-/*.jumbo{
-    background-image: url(/img/jumbo.png);
-    width: 100%;
-}*/
-    
 
 .SectionButton{
     margin-left: 150px;
@@ -192,12 +187,19 @@ div.paragrafi>p{
 .spaziofooter{
     margin-bottom: 30px;
 }
-.fotoOndine{
-    width: 1519px;
-    opacity: 0.2;
+.ondine{
+    background-image: url(../img/wave.svg);
+    height: 100px;
+    opacity: 0.18;
 }
-/*.fotoOndine1{
-    width: 1519px;
-    opacity: 0.4;
-    background-color: gray;
-}*/
+.fotoOndine1{
+    color: lightgray;
+    background-color: white;
+    transform: rotate(180deg);
+}
+.stelline{
+    background-image: url(../img/stars.svg);
+    background-repeat: no-repeat;
+    height: 80px;
+    margin-bottom: 50px;
+}
