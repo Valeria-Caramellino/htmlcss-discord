@@ -36,15 +36,13 @@ header{
     margin: 0 auto;
 }
 .bianco{background-color: white;}
-/*.AzzurroTestata{background-color: #3161e0;}*/
+
 .grigio { background-color: lightgray; }
-/*.azzurro { background-color: dodgerblue; }
-.rosa { background-color: pink; }*/
-/*.viola { background-color: violet; }*/
-/*.verde { background-color: green; }*/
+
 .nero { background-color: black; }
-/*.acqua { background-color: aquamarine; }*/
+
 .AzzurroBottone{ background-color: #8ea1e1;}
+
 .nav {
     height: 80px;
     align-items: center;
@@ -83,9 +81,7 @@ span.Hover:hover{
     align-items: center;
 }
 
-/*.spaziofooter {
-    padding: 0.5em;
-}*/
+
 .size{
     font-size: 15px;
     font-weight:bold;
